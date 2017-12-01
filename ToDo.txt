@@ -2,3 +2,4 @@
 - Gallons to Litres
 - Hours to Minutes
 - Feet to Inches
+- Degrees to Radiants
